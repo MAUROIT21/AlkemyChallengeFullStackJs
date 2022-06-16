@@ -1,0 +1,26 @@
+{
+  "name": "mibalance",
+  "version": "1.0.0",
+  "description": "appAlkemyChallengeBalance",
+  "main": "index.js",
+  "scripts": {
+    "test": "testingbalance"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAUROIT21/AlkemyChallengeFullStackJs.git"
+  },
+  "keywords": [
+    "mauro123"
+  ],
+  "author": "MauroSomD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAUROIT21/AlkemyChallengeFullStackJs/issues"
+  },
+  "homepage": "https://github.com/MAUROIT21/AlkemyChallengeFullStackJs#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
